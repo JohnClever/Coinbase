@@ -6,7 +6,7 @@ const AppScreen = () => {
 		<div>
 			<Navbar />
 			<FirstPart />
-			{/* <SecondPart /> */}
+			<SecondPart />
 			<ThirPart />
 			<FourthPart />
 			<FifthPart />

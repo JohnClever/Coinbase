@@ -1,5 +1,5 @@
 import './App.css';
-import AppScreen from './screens';
+import AppScreen from './HomePage';
 
 function App() {
   return (
